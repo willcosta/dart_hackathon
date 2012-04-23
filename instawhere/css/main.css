@@ -1,0 +1,27 @@
+#map{
+	width : 900px;
+	height : 600px;
+	float : left;
+	position : relative;
+}
+
+#map_container{
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 900px;
+	height : 600px;
+}
+
+#map_canvas{
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 900px;
+	height : 600px;
+}
+
+#images_container{
+	width : 1024px;
+	float : left;
+}
